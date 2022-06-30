@@ -1,0 +1,60 @@
+
+.first{
+background-color:#C0C0C0;
+height:100px;
+width:200px;
+position:relative;
+display:inline-block;
+padding:100px;
+}
+.first:hover{
+		background-color: aqua;
+}
+.second{
+background-color:#4863A0;
+height:100px;
+width:200px;
+display:inline-block;
+position: relative;
+padding:100px;
+top:300px;
+}
+.second:hover{
+		background-color: red;
+}
+.third{
+background-color:#77BFC7;
+height:100px;
+width:200px;
+display:inline-block;
+padding: 100px;
+position: relative;
+
+}
+.third:hover{
+		background-color: green;
+}
+.fourth{
+background-color:#FFC0CB;
+height:100px;
+width:200px;
+display:inline-block;
+padding: 100px;
+position: relative;
+top:300px;
+}
+.fourth:hover{
+		background-color: grey;
+}
+.fifth{
+background-color:cadetblue;
+height:100px;
+width:200px;
+display:inline-block;
+padding: 100px;
+position: relative;
+top: 300px;
+left: 400px;
+.fifth:hover{
+		background-color: blue;
+}
