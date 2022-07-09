@@ -1,7 +1,5 @@
-@ media all{
-body{
-backgroud-color:#COCOCO;
-}
+
+
 .first{
 background-color:#C0C0C0;
 height:100px;
@@ -61,4 +59,4 @@ left: 400px;
 .fifth:hover{
 background-color: blue;
 }
-}
+
