@@ -5,8 +5,6 @@ background-color:#C0C0C0;
 height:100px;
 width:200px;
 position:relative;
-float:left;
-display:block;
 padding:100px;
 }
 .first:hover{
@@ -16,10 +14,9 @@ padding:100px;
 background-color:#4863A0;
 height:100px;
 width:200px;
-display:block;
 position: relative;
 padding:100px;
-left:600px;
+
 }
 .second:hover{
 		background-color: red;
@@ -28,9 +25,7 @@ left:600px;
 background-color:#77BFC7;
 height:100px;
 width:200px;
-display:inline-block;
 padding: 100px;
-float: right;
 position: relative;
 
 }
@@ -41,10 +36,8 @@ position: relative;
 background-color:#FFC0CB;
 height:100px;
 width:200px;
-display:block;
 padding: 100px;
 position: relative;
-//top:300px;
 }
 .fourth:hover{
 		background-color: grey;
@@ -53,12 +46,8 @@ position: relative;
 background-color:cadetblue;
 height:100px;
 width:200px;
-display:block;
 padding: 100px;
 position: relative;
-float: right;
-top: 300px;
-//left: 400px;
 .fifth:hover{
 background-color: blue;
 }
