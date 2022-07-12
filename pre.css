@@ -17,7 +17,6 @@ width:33.33%;
 position: relative;
 left:235px;
 bottom:300px;
-float:right;
 padding:100px;
 
 }
@@ -55,7 +54,7 @@ padding: 100px;
 position: relative;
 left:235px;
 bottom:300px;
-float:right;
+
 }
 .fifth:hover{
 background-color: yellow;
