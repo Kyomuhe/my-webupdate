@@ -3,7 +3,7 @@
 .first{
 background-color:#C0C0C0;
 height:100px;
-width:200px;
+width:33.33%;
 position:relative;
 padding:100px;
 }
@@ -13,7 +13,7 @@ padding:100px;
 .second{
 background-color:#4863A0;
 height:100px;
-width:200px;
+width:33.33%;
 position: relative;
 left:235px;
 bottom:300px;
@@ -27,7 +27,7 @@ padding:100px;
 .third{
 background-color:#77BFC7;
 height:100px;
-width:200px;
+width:33.33%;
 padding: 100px;
 left:400px;
 
@@ -40,7 +40,7 @@ position: relative;
 .fourth{
 background-color:#FFC0CB;
 height:100px;
-width:200px;
+width:33.33%;
 padding: 100px;
 position: relative;
 }
@@ -50,7 +50,7 @@ position: relative;
 .fifth{
 background-color:cadetblue;
 height:100px;
-width:200px;
+width:33.33%;
 padding: 100px;
 position: relative;
 left:235px;
