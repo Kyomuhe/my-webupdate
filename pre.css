@@ -15,7 +15,7 @@ background-color:#4863A0;
 height:100px;
 width:200px;
 position: relative;
-left:500px;
+left:400px;
 bottom:300px;
 float:right;
 padding:100px;
@@ -53,6 +53,9 @@ height:100px;
 width:200px;
 padding: 100px;
 position: relative;
+left:400px;
+bottom:200px;
+float:right;
 .fifth:hover{
 background-color: blue;
 }
