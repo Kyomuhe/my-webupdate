@@ -6,6 +6,7 @@ height:100px;
 width:33.33%;
 position:relative;
 padding:100px;
+float:left;
 }
 .first:hover{
 		background-color: aqua;
@@ -18,6 +19,7 @@ position: relative;
 left:235px;
 bottom:300px;
 padding:100px;
+float:right;
 
 }
 .second:hover{
@@ -29,7 +31,6 @@ height:100px;
 width:33.33%;
 padding: 100px;
 left:400px;
-
 position: relative;
 
 }
@@ -42,6 +43,7 @@ height:100px;
 width:33.33%;
 padding: 100px;
 position: relative;
+float:left;
 }
 .fourth:hover{
 		background-color: grey;
@@ -54,6 +56,7 @@ padding: 100px;
 position: relative;
 left:235px;
 bottom:300px;
+float:right;
 
 }
 .fifth:hover{
