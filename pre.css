@@ -46,7 +46,7 @@ background-color:#FFC0CB;
 height:100px;
 width:33.33%;
 padding-top: 90px;
-position: relative;
+position: absolute;
 float:left;
 margin-left:0;
 text-align:center;
@@ -69,7 +69,7 @@ width:33.33%;
 padding-top: 90px;
 text-align:center;
 float:right;
-position:static;
+position:absolute;
 
 }
 .fifth:hover{
